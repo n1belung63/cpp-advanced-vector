@@ -6,6 +6,8 @@
 #include <memory>
 #include <algorithm>
 
+using namespace std::string_view_literals;
+
 template <typename T>
 class RawMemory {
 public:
